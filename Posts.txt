@@ -1,0 +1,8 @@
+public class TarefaUm {
+
+	public static void main(String[] args) {
+		System.out.println("Olá Fujioka,primeiro código em casa.");
+	}
+	
+}
+	
